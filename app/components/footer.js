@@ -6,7 +6,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           <div>
-            <h3 className="text-xl font-semibold mb-4">About Me</h3>
+            <h3 className="text-xl font-semibold mb-4">Me:</h3>
             <p className="text-gray-300">I am Pankaj, a full-stack developer proficient in JavaScript and Python. I specialize in crafting seamless, scalable applications. For collaboration on innovative projects, reach out and lets elevate your digital solutions together.</p>
           </div>
           <div>
