@@ -12,7 +12,7 @@ const Header = () => {
           <ul className="flex space-x-4">
             <li><a href="#projects" className="text-white hover:text-gray-300">My Projects</a></li>
             <li><a href="#skills" className="text-white hover:text-gray-300">My Skills</a></li>
-            <li><a href="#contact" className="text-white hover:text-gray-300">Contact Me</a></li>
+            <li><a href="#contact" className="text-white hover:text-gray-300">Reach Me</a></li>
           </ul>
         </div>
         <div className="md:hidden">

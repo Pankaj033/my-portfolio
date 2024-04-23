@@ -7,14 +7,14 @@ const Education = () => {
         <h2 className="text-3xl md:text-4xl font-bold text-white text-center mb-8">Education</h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 
-          <div className="bg-gray-800 rounded-lg shadow-md overflow-hidden">
+          <div className="bg-gray-800 rounded-lg shadow-md overflow-hidden transition-transform duration-300 transform hover:scale-105">
             <div className="p-6">
               <h3 className="text-xl font-semibold text-white mb-4">High Scool</h3>
               <p className="text-gray-400">India</p>
             </div>
           </div>
 
-          <div className="bg-gray-800 rounded-lg shadow-md overflow-hidden">
+          <div className="bg-gray-800 rounded-lg shadow-md overflow-hidden transition-transform duration-300 transform hover:scale-105">
             <div className="p-6">
               <h3 className="text-xl font-semibold text-white mb-4">Diploma</h3>
               <p className="text-gray-400">Southern Alberta Institute Of Technology</p>

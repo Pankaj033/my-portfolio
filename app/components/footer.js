@@ -10,13 +10,11 @@ const Footer = () => {
             <p className="text-gray-300">I am Pankaj, a full-stack developer proficient in JavaScript and Python. I specialize in crafting seamless, scalable applications. For collaboration on innovative projects, reach out and lets elevate your digital solutions together.</p>
           </div>
           <div>
-            <h3 className="text-xl font-semibold mb-4">Useful Links</h3>
+            <h3 className="text-xl font-semibold mb-4">Links</h3>
             <ul className="flex flex-col space-y-2">
               <li><a href="#head" className="text-gray-300 hover:text-white">Home</a></li>
-              <li><a href="#about" className="text-gray-300 hover:text-white">About</a></li>
               <li><a href="#project" className="text-gray-300 hover:text-white">Projects</a></li>
               <li><a href="#skills" className="text-gray-300 hover:text-white">Skills</a></li>
-              <li><a href="#contact" className="text-gray-300 hover:text-white">Contact</a></li>
             </ul>
           </div>
           <div>
